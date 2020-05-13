@@ -1,0 +1,14 @@
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.2\NetCoreApi.deps.json
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.2\NetCoreApi.runtimeconfig.json
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.2\NetCoreApi.runtimeconfig.dev.json
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.2\NetCoreApi.dll
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.2\NetCoreApi.pdb
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.csprojAssemblyReference.cache
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.RazorAssemblyInfo.cache
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.RazorAssemblyInfo.cs
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.AssemblyInfoInputs.cache
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.AssemblyInfo.cs
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.dll
+C:\Users\rarsantos\source\repos\.NetCoreApi\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.2\NetCoreApi.pdb
