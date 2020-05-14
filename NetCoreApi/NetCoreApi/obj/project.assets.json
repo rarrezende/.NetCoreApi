@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rarsantos\\source\\repos\\.NetCoreApi\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\rarsantos\\source\\repos\\NetCoreApi\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
       "projectName": "NetCoreApi",
-      "projectPath": "C:\\Users\\rarsantos\\source\\repos\\.NetCoreApi\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
+      "projectPath": "C:\\Users\\rarsantos\\source\\repos\\NetCoreApi\\NetCoreApi\\NetCoreApi\\NetCoreApi.csproj",
       "packagesPath": "C:\\Users\\rarsantos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rarsantos\\source\\repos\\.NetCoreApi\\NetCoreApi\\NetCoreApi\\obj\\",
+      "outputPath": "C:\\Users\\rarsantos\\source\\repos\\NetCoreApi\\NetCoreApi\\NetCoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
